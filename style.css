@@ -1,0 +1,43 @@
+.heading
+{
+  text-align:center;
+  color:yellow;
+  font-size:25px;
+  background-color:purple;
+  box-shadow:5px 5px 5px yellow;
+}
+body
+{
+ background-color:cyan;
+  
+}
+p
+{
+ background-color:purple;
+  color:yellow;
+  box-shadow:5px 5px 5px yellow;
+  text-align:center;
+}
+
+.copy_right_footer
+{
+  
+  position: fixed;
+  box-shadow:5px 5px 10px blue;
+  background-color:blueviolet;
+  color:white;
+  bottom:0;
+  width:100%;
+  line-height:2;
+  text-align: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+img
+{
+height: 300px;
+margin-top: 35px;
+  border:dashed;
+  width:300px;
+  
+}
